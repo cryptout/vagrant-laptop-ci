@@ -1,4 +1,10 @@
+*~
+[#]*[#]
+.\#*
+.pe_build
 .vagrant
 .DS_Store
 *.gz
+*.iso
+*.swp
 *.tar
